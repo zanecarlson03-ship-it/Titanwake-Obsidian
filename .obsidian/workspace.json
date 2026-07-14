@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "4a1538e10dcb267a",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c480c8dec56e6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "017ce12c8829919d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05802842487f68a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b5f29892d0809a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633b749613a9e9d8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cdd57f5b38871317",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7bfc8e61e7cd47ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a88366bcc1d7ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3853ee99565c4519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ccd9ca35fc36096",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "18b81977469d5057",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "69ed85abac626cdf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be98b91e8dfd9ecb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04f2b2849aefcdf9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "633b749613a9e9d8",
+  "lastOpenFiles": [
+    "Titanwake-Obsidian/README.md",
+    "Titanwake-Obsidian",
+    "2.0 Mechanics/2.0 Mechanics.md",
+    "0. Director's Screen/0. Director's Screen.md",
+    "0. Scratch Notes/0. Scratch Notes.md",
+    "1. The Players/1. The Players.md",
+    "1. Titanwake/1. Titanwake.md",
+    "2.0 Session Journals/2.0 Session Journals.md",
+    "z_Assets/z_Assets.md",
+    "z_Templates/z_Templates.md",
+    "2.0 Mechanics/2.1 Players/Abilities/Censor/1st-Level Features/Arrest.md",
+    "z_Templates",
+    "2.0 Mechanics/2.3 Rewards",
+    "2.0 Mechanics/2.2 Encounters",
+    "2.0 Mechanics/2.1 Players",
+    "2.0 Mechanics/Skills/Skills.md",
+    "2.0 Mechanics/Draw Steel Heroes.md",
+    "2.0 Mechanics/PC related",
+    "2.0 Mechanics/2.2 Encounters/Bestiary/Homebrew",
+    "2.0 Mechanics/README.md",
+    "2.0 Mechanics/Compendium/Bestiary/Bestiary.md",
+    "2.0 Mechanics/Compendium/Adventures/adventures.md",
+    "2.0 Mechanics/Rules/README.md",
+    "2.0 Mechanics/Rules/Draw Steel Heroes - Unlinked.md",
+    "2.0 Mechanics/Compendium",
+    "z_Assets",
+    "2.0 Mechanics/2.2 Encounters/Bestiary/Retainers/Statblocks/Angulotl Hopper.md",
+    "2.0 Mechanics/2.1 Players/Classes/Troubadour.md",
+    "2.0 Mechanics/2.1 Players/Classes/Talent.md",
+    "2.0 Mechanics/2.1 Players/Classes/Tactician.md",
+    "2.0 Mechanics/2.1 Players/Classes/Shadow.md",
+    "2.0 Mechanics/2.1 Players/Classes/Null.md",
+    "2.0 Mechanics/2.1 Players/Classes/Fury.md",
+    "2.0 Mechanics/2.1 Players/Classes/Elementalist.md",
+    "2.0 Mechanics/2.1 Players/Classes/Conduit.md",
+    "2.0 Mechanics/2.1 Players/Cultures/Organization"
+  ]
+}
