@@ -4,11 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "87c480c8dec56e6e",
+        "id": "2420fb33d71c4642",
         "type": "tabs",
         "children": [
           {
-            "id": "017ce12c8829919d",
+            "id": "bceab607726ce7e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe/Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Members",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.0 Mechanics/2.5 Factions and Groups/Crew/Members.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Members\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mission",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.0 Mechanics/2.5 Factions and Groups/Crew/Mission.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mission\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Members",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.0 Mechanics/2.5 Factions and Groups/Crew/Members.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Members\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Varziur Namon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.0 Mechanics/2.4 NPCs/Varziur Namon.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Varziur Namon\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":14},\"to\":{\"line\":5,\"ch\":14}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.0 Mechanics/2.4 NPCs/Varziur Namon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Varziur Namon"
+            }
+          },
+          {
+            "id": "d6f67ae3a4096f0a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,15 +75,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Scratch Notes/This note is NEEEEEEWW.md",
+                "file": "2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe/The Iekita Tribe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "This note is NEEEEEEWW"
+              "title": "The Iekita Tribe"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Scratch Notes/This note is NEEEEEEWW.md",
+                "file": "2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe/The Iekita Tribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for This note is NEEEEEEWW"
+              "title": "Backlinks for The Iekita Tribe"
             }
           },
           {
@@ -245,7 +299,7 @@
             }
           },
           {
-            "id": "f21bb8518a2c3768",
+            "id": "b3da545661287e63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -263,8 +317,7 @@
               "title": "Initiative Tracker"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,46 +336,46 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "017ce12c8829919d",
+  "active": "d6f67ae3a4096f0a",
   "lastOpenFiles": [
+    "2.0 Mechanics/2.4 NPCs/Varziur Namon.md",
+    "2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe/Untitled.md",
+    "2.0 Mechanics/2.5 Factions and Groups/Crew/Members.md",
+    "2.0 Mechanics/2.5 Factions and Groups/Crew/Mission.md",
+    "2.0 Mechanics/2.0 Homebrew/Untitled",
+    "2.0 Mechanics/Draw Steel Heroes.md",
+    "2.0 Mechanics/2.5 Factions and Groups/Crew/Crew.md",
+    "2.0 Mechanics/2.5 Factions and Groups/Crew",
+    "2.0 Mechanics/2.3 Rewards/Boons/Boon of the Bloodless.md",
+    "2.0 Mechanics/2.0 Homebrew",
+    "2.0 Mechanics/2.3 Rewards/Boons/Boons.md",
+    "2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe/The Iekita Tribe.md",
+    "2.0 Mechanics/2.3 Rewards/Boons",
+    "1. Titanwake/The Bloodless Sea/Forgotten Rock/Forgotten Rock.md",
+    "2.0 Mechanics/2.5 Factions and Groups/The Iekita Tribe",
+    "2.0 Mechanics/2.5 Factions and Groups",
+    "1. Titanwake/The Bloodless Sea/The Bloodless Sea.md",
+    "1. Titanwake/The Bloodless Sea/Forgotten Rock",
+    "Untitled.base",
+    "Untitled Kanban.md",
+    "1. Titanwake/The Bloodless Sea",
+    "1. Titanwake/Campaign",
+    "2.0 Mechanics/2.1 Players/Features/Shadow/Index.md",
+    "2.0 Mechanics/2.2 Encounters/Bestiary/Monsters/War Dogs/Statblocks/War Dog Thanatite.md",
+    "2.0 Mechanics/2.2 Encounters/Bestiary/Monsters/Demons/Statblocks/Pitling.md",
+    "2.0 Mechanics/2.1 Players/Features/Censor/2nd-Level Features/Index.md",
     "0. Scratch Notes/This note is NEEEEEEWW.md",
+    "2.0 Mechanics/2.1 Players/Features/Null/Index.md",
     "Titanwake-Obsidian/README.md",
-    "Titanwake-Obsidian",
     "2.0 Mechanics/2.0 Mechanics.md",
     "0. Director's Screen/0. Director's Screen.md",
     "0. Scratch Notes/0. Scratch Notes.md",
     "1. The Players/1. The Players.md",
     "1. Titanwake/1. Titanwake.md",
-    "2.0 Session Journals/2.0 Session Journals.md",
-    "z_Assets/z_Assets.md",
-    "z_Templates/z_Templates.md",
-    "2.0 Mechanics/2.1 Players/Abilities/Censor/1st-Level Features/Arrest.md",
-    "z_Templates",
-    "2.0 Mechanics/2.3 Rewards",
-    "2.0 Mechanics/2.2 Encounters",
-    "2.0 Mechanics/2.1 Players",
-    "2.0 Mechanics/Skills/Skills.md",
-    "2.0 Mechanics/Draw Steel Heroes.md",
-    "2.0 Mechanics/PC related",
-    "2.0 Mechanics/2.2 Encounters/Bestiary/Homebrew",
-    "2.0 Mechanics/README.md",
-    "2.0 Mechanics/Compendium/Bestiary/Bestiary.md",
-    "2.0 Mechanics/Compendium/Adventures/adventures.md",
-    "2.0 Mechanics/Rules/README.md",
-    "2.0 Mechanics/Rules/Draw Steel Heroes - Unlinked.md",
-    "2.0 Mechanics/Compendium",
-    "z_Assets",
-    "2.0 Mechanics/2.2 Encounters/Bestiary/Retainers/Statblocks/Angulotl Hopper.md",
-    "2.0 Mechanics/2.1 Players/Classes/Troubadour.md",
-    "2.0 Mechanics/2.1 Players/Classes/Talent.md",
-    "2.0 Mechanics/2.1 Players/Classes/Tactician.md",
-    "2.0 Mechanics/2.1 Players/Classes/Shadow.md",
-    "2.0 Mechanics/2.1 Players/Classes/Null.md",
-    "2.0 Mechanics/2.1 Players/Classes/Fury.md",
-    "2.0 Mechanics/2.1 Players/Classes/Elementalist.md",
-    "2.0 Mechanics/2.1 Players/Cultures/Organization"
+    "2.0 Session Journals/2.0 Session Journals.md"
   ]
 }
